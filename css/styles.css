@@ -1,0 +1,21 @@
+
+.html{
+  background-image: image('../woven-bamboo');
+}
+.ninjacat{
+  height: 50px;
+  width: 29px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.page-container{
+  display: flex;
+  justify-content: center;
+}
+.page-container{
+  display: flex;
+  justify-items: center;
+  flex-direction: column;
+  // align-content: center;
+}
