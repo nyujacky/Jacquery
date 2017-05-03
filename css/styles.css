@@ -1,12 +1,17 @@
-
-.html{
-  background-image: image('../woven-bamboo');
+html{
+  height: 100%;
+  width: 100%;
+}
+body{
+  height: 100%;
+  width: 100%;
+  background-image: url('../lib/woven-bamboo.jpg');
 }
 .ninjacat{
   height: 50px;
   width: 29px;
   position: absolute;
-  top: 0px;
+  top: 10px;
   left: 0px;
 }
 .page-container{
