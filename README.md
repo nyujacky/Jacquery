@@ -1,4 +1,4 @@
-= Jacquery -- Cross Platform Javascript Library
+# Jacquery -- Cross Platform Javascript Library
 
 Jacquery is a cross platform javascript library that is open source. It is meant to be used as an easier way to navigate through a document, select DOM elements, create animations, handle events, and develop Ajax applications. Developers can also create plugins on top of the JavaScript library, as it also simplifies the client-side scripting of HTML.
 
