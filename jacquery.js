@@ -214,7 +214,6 @@ class DomNodeCollection {
     //
     this.each(node =>
         {
-      // node.parentNode.visited ? node.parentNodes.push(parentNode) : node.parentNode.visited = true;
       if (node.parentNode.visited){
         node.parentNodes.push(parentNode)
       }

@@ -6,7 +6,7 @@ html{
 body{
   height: 100%;
   width: 100%;
-  background-image: url('../lib/woven-bamboo.jpg');
+  background-image: url('../css/woven-bamboo.jpg');
 }
 .ninjacat{
   height: 50px;

@@ -11,8 +11,8 @@ The quickest way to get started with Jacquery is to download this library into y
 ```html
 <head>
   <meta charset="utf-8">
-  <link rel="stylesheet" href="./css/reset.css">
-  <script type="text/javascript" src="../jacquery.js"></script>
+  <link rel="stylesheet" href="./css/styles.css">
+  <script type="text/javascript" src="./jacquery.js"></script>
   ...
 </head>
 ```
@@ -142,4 +142,4 @@ Removes event listener from each `DOMNodeCollection` element.
 
 ## Example
 
-For an example of a project using the Jacquery library, view the NinjaCat Demo [code](https://github.com/nyujacky/jacquery).  To run the demo, clone the DOMDOMDOM library and view the html file locally.
+For an example of a project using the Jacquery library, view the NinjaCat Demo [code](https://nyujacky.github.io/Jacquery).  To run the demo, clone the Jacquery library and view the html file locally.
