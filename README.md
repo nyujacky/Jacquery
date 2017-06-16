@@ -12,7 +12,7 @@ The quickest way to get started with Jacquery is to download this library into y
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="./css/styles.css">
-  <script type="text/javascript" src="./jacquery.js"></script>
+  <script type="text/javascript" src="./lib/main.js"></script>
   ...
 </head>
 ```
